@@ -9,6 +9,7 @@ Welcome to the GitHub repository for the "Self-Identifying Mental Status and Sup
 **Theme**: Fitness and Sport                                    
 **Category**: Software                                          
 **Statement Type**: Central Ministry
+**Organization** : Government of Gujurat
 
 ## The Bot
 At the core of our project is an intelligent chatbot, designed to be a friendly and supportive companion for users. The chatbot is equipped with advanced natural language processing capabilities, allowing it to engage in meaningful conversations with users. It serves as a virtual mental health assistant, guiding users through self-assessment quizzes and offering personalized recommendations based on their responses. The bot is programmed to provide empathetic responses and is available 24/7 to ensure users always have access to support. 
