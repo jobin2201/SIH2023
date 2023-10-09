@@ -77,7 +77,7 @@ We've incorporated ICD-10 coding standards into our mental health assessment too
 TensorFlow powers our machine learning models, enabling Baymax to analyze user inputs and provide personalized recommendations for fitness and mental health activities. This enhances the overall user experience, making it more tailored to individual needs.
 
 ## Summary
-Our project is a comprehensive and innovative approach to mental health and fitness. It combines the capabilities of ReactJS, Firebase, NLTK, TensorFlow, and more to create an empathetic virtual assistant, MindFitBot, and a user-friendly application. The integration of these technologies ensures that users receive personalized support for their mental well-being while pursuing fitness and sports activities.
+Our project is a comprehensive and innovative approach to mental health and fitness. It combines the capabilities of ReactJS, Firebase, NLTK, TensorFlow, and more to create an empathetic virtual assistant, and a user-friendly application. The integration of these technologies ensures that users receive personalized support for their mental well-being while pursuing fitness and sports activities.
 
 
 
