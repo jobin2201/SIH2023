@@ -5,8 +5,7 @@
 Welcome to the GitHub repository for the "Self-Identifying Mental Status and Support Guidance" project, developed as part of the Smart India Hackathon. This project aims to address the critical issue of mental health by leveraging technology to provide individuals with a platform for self-identifying their mental status and accessing guidance and support related to fitness and sports.
 
 ## Problem Statement
-**Title**
-Self-Identifying the Mental Status and Get Guidance for Support                      
+**Title** Self-Identifying the Mental Status and Get Guidance for Support                                                                                                                   
 **Theme**: Fitness and Sport                                    
 **Category**: Software                                          
 **Statement Type**: Central Ministry
