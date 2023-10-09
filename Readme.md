@@ -8,7 +8,7 @@ Welcome to the GitHub repository for the "Self-Identifying Mental Status and Sup
 **Title** Self-Identifying the Mental Status and Get Guidance for Support                                                                                                                   
 **Theme**: Fitness and Sport                                    
 **Category**: Software                                          
-**Statement Type**: Central Ministry
+**Statement Type**: Central Ministry                                                                                                                                            
 **Organization** : Government of Gujurat
 
 ## The Bot
