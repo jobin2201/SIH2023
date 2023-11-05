@@ -99,6 +99,9 @@ Cognitive Bias Modification (CBM) enhances the impact of Baymax, particularly wi
 8. Machine Learning Algorithms
    - Sentiment Analysis: We've implemented sentiment analysis using machine learning to assess user mood and emotions based on text inputs. This helps us tailor Baymax's responses accordingly.
    - Emotion Detection: Leveraging machine learning, we've developed an emotion detection algorithm that identifies emotions in user text, allowing Baymax to offer empathetic and supportive responses.
+<div align="center">
+  <img src="https://github.com/jobin2201/SIH2023/blob/main/Images/wellbeing.jpg" alt="Image Alt Text">
+</div>
 
 
 ## Buisness Proposals
