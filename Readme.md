@@ -105,6 +105,10 @@ Cognitive Bias Modification (CBM) enhances the impact of Baymax, particularly wi
 5. **Refer and Earn:** Implementing a "Refer and Earn" program can encourage user referrals and app growth. Baymax can reward existing users with discounts, cashback, or other incentives for referring new users to the app. This approach leverages the power of word-of-mouth marketing and user-generated growth, expanding the user base and creating a network effect.
 
 ## Impact and the App Integration
+<div align="center">
+  <img src="https://github.com/jobin2201/SIH2023/blob/main/Images/APP.png" alt="Image Alt Text">
+</div>
+
 The integration of our intelligent chatbot with the app is a crucial element of our project. It ensures that users have a seamless and interactive experience while using the application. Our integrated app goes beyond just mental health support. 
 Our project aims to make mental health support more accessible, especially to those who are passionate about fitness and sports. By integrating mental health assessments, guidance, and resources into a fitness-oriented application, we hope to inspire individuals to prioritize their mental well-being. We believe that the synergy of mental health and physical fitness can lead to a happier and healthier society.
 - The app allows users to monitor their physical health through features like heart rate and sleep rate tracking. It provides real-time insights into their well-being and ensures they stay on top of their physical health
