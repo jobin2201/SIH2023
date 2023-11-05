@@ -41,6 +41,10 @@ Smart devices like smartwatches are valuable tools for real-time monitoring of a
 - Data Privacy: Privacy remains a top priority. The data collected by smart devices and analyzed by Baymax is treated with the utmost sensitivity. Users can trust that their personal information and mental health data are securely handled.
 - Personalized Support: The integration with smart devices enables Baymax to offer personalized support based on the real-time data collected. For example, if a smartwatch detects a spike in stress levels, Baymax can suggest breathing exercises or meditation to help the user manage their mental state effectively.
 
+<div align="center">
+  <img src="https://github.com/jobin2201/SIH2023/blob/main/Images/wellbeing.png" alt="Image Alt Text">
+</div>
+
 ## Novelty
 #### 1. Empathy 
 Empathy lies at the core of our project. Here's how empathy is integrated into the AI chatbot : <br>
@@ -101,8 +105,10 @@ Cognitive Bias Modification (CBM) enhances the impact of Baymax, particularly wi
 1. **Freemium Model:** Baymax can adopt a freemium model, which means providing basic features and services to users for free while offering premium features at a cost. This strategy can attract a broader user base by lowering the entry barrier. Users can explore the basic functionalities of the chatbot without any financial commitment. At the same time, premium features, such as advanced counseling or personalized guidance, can be monetized, generating revenue for the service.<br>
 2. **In-App Purchases:** Premium plans can be introduced within the Baymax application. Users who are looking for a more comprehensive mental health support experience can purchase additional features or content directly within the app. For example, premium users might gain access to personalized coaching sessions, exclusive content on mental health and well-being, or ad-free usage. In-app purchases provide a convenient and flexible monetization strategy.<br>
 3. **Google Advertising:** To generate revenue, Baymax can incorporate Google advertising using relevant and non-intrusive ads within the app. These ads can be targeted to specific user demographics and interests, enhancing their relevance. Revenue can be generated based on ad clicks or impressions. By maintaining a balance between user experience and advertising, this approach can be sustainable.<br>
-4. **Gamification for Engagement:** Gamification can be introduced to enhance user engagement, particularly in the context of child mental health. Baymax can implement game challenges or reward systems to motivate users to interact with the chatbot regularly. For children, this approach can make mental health support more engaging and enjoyable, creating a positive impact on their well-being.<br>
-5. **Refer and Earn:** Implementing a "Refer and Earn" program can encourage user referrals and app growth. Baymax can reward existing users with discounts, cashback, or other incentives for referring new users to the app. This approach leverages the power of word-of-mouth marketing and user-generated growth, expanding the user base and creating a network effect.
+4. **Gamification for Engagement:**
+   ![Alt Text](https://github.com/jobin2201/SIH2023/blob/main/Images/gamification.png)
+   Gamification can be introduced to enhance user engagement, particularly in the context of child mental health. Baymax can implement game challenges or reward systems to motivate users to interact with the       chatbot regularly. For children, this approach can make mental health support more engaging and enjoyable, creating a positive impact on their well-being.<br>
+7. **Refer and Earn:** Implementing a "Refer and Earn" program can encourage user referrals and app growth. Baymax can reward existing users with discounts, cashback, or other incentives for referring new users to the app. This approach leverages the power of word-of-mouth marketing and user-generated growth, expanding the user base and creating a network effect.
 
 ## Impact and the App Integration
 <div align="center">
