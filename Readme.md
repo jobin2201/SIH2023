@@ -42,7 +42,7 @@ Smart devices like smartwatches are valuable tools for real-time monitoring of a
 - Personalized Support: The integration with smart devices enables Baymax to offer personalized support based on the real-time data collected. For example, if a smartwatch detects a spike in stress levels, Baymax can suggest breathing exercises or meditation to help the user manage their mental state effectively.
 
 <div align="center">
-  <img src="https://github.com/jobin2201/SIH2023/blob/main/Images/wellbeing.png" alt="Image Alt Text">
+  <img src="https://github.com/jobin2201/SIH2023/blob/main/Images/watch.jpg" alt="Image Alt Text">
 </div>
 
 ## Novelty
